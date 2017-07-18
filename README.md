@@ -1,2 +1,4 @@
-# iasom_git
-Git is a state of mind presentation (rolling release)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+# "Is A State Of Mind": Git
+"Git is a state of mind" presentation (rolling release)
